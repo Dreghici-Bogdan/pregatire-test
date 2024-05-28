@@ -1,0 +1,2 @@
+CompanyName;12345;678.90;1
+AnotherCompany;23456;789.01;0
